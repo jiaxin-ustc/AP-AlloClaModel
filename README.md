@@ -1,4 +1,4 @@
-# MolecularBondNet
+# AP-AlloClaModel
 This project provides an implementation of the classify of **(allosteric) Active molecule** and **(allosteric) InActive molecule** based on the physical basis model's output.
       
 ## Model Architecture
